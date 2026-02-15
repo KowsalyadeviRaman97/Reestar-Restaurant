@@ -1,0 +1,62 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+.container
+{
+    padding: 50px;
+}
+.Heading_name{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.recipes__one img,.food_recipes__two img,.food_recipes__three img,.food_recipes__four img
+{
+    width: 250px;
+    height: 450px;
+  
+}
+.recipes__one,.food_recipes__two,.food_recipes__three,.food_recipes__four{
+    display: inline-block;
+    border: solid black 1px;
+
+}
+
+.food_recipes{
+    text-align: center;
+    margin: 10px;
+}
+button{
+    background-color: black;
+    color: white;
+    padding:5px ;
+}
+.Contact_card{
+
+background-color: black;
+color: white;
+padding-top: 20px;
+padding-bottom: 10px;
+margin: 10px;
+}
+.Contact__table
+{
+   display: inline-block;
+    text-align: center;
+    /* width:200px;
+    margin: 0 auto;*/
+    
+}
+.send
+{
+    display: block;
+    width:600px;
+    margin: 0 auto;
+    background-color: yellow;
+    color: black;
+
+}
